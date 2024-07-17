@@ -1,4 +1,4 @@
-# Deploying an ERC20 Token on BASE
+# Deploying an ERC20 Token on ARBITRUM ONE
 
 This repository contains a guide and the example of a smart contract for deploying an ERC20 token on ARBITRUM ONE.
 
